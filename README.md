@@ -4,7 +4,7 @@ This project is focused on the prediction of cardiovascular disease using machin
 
 ## Dataset
 
-The dataset contains 70,000 records with 12 features that can be used to predict the presence or absence of cardiovascular disease in a patient. The dataset features include age, gender, blood pressure, smoking status, alcohol intake, and other medical conditions. The target variable for this project is a binary variable indicating the presence or absence of cardiovascular disease.
+The dataset contains some of the records with 12 features that can be used to predict the presence or absence of cardiovascular disease in a patient. The dataset features include age, gender, blood pressure, smoking status, alcohol intake, and other medical conditions. The target variable for this project is a binary variable indicating the presence or absence of cardiovascular disease.
 
 ## Project Goal
 
