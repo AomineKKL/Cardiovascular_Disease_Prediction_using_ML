@@ -13,7 +13,11 @@ The goal of this project is to develop machine learning models using decision tr
 ## Project Files
 The project files include:
 
-cardiovascular_disease_prediction.ipynb: A Jupyter notebook containing the data cleaning, data preprocessing, model training, and evaluation.
+- cardiovascular_disease_prediction.ipynb: A Jupyter notebook containing the data cleaning, data preprocessing, model training, and evaluation.
+
+- cardiovascular_disease.csv: The dataset used for the project.
+
+- README.md: A file containing the project description and instructions for running the code.
 
 
 ## Project Dependencies
